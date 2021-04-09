@@ -1,7 +1,7 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS
 /*********************************************************************
 * N.Kozak // Lviv'2020 // ACM // Dijkstra's algorithm implementation *
-*    file: acmhw16.c                                                 *
+*    file: acmhw18.c                                                 *
 **********************************************************************/
 #include <stdio.h> 
 #include <stdlib.h> 
